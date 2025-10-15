@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I’m Rustam, a React developer on a journey to full-stack and AI development.<br><br>💻 Love building clean, user-friendly apps with React & JavaScript.<br><br>🚀 Exploring the MERN stack + AI integrations.<br><br>🐾 Currently working on a fun Cats & Coffee app.<br><br>☕ Coffee keeps the code flowing.<br><br>📫 Let’s connect: [GitHub](https://github.com/ErmatovRustam) · [LinkedIn](https://www.linkedin.com/in/rustam-ermat/)
+Hi 👋 I’m Rustam, a React developer on a journey to full-stack and AI development.<br><br>💻 Love building clean, user-friendly apps with React & JavaScript.<br><br>🚀 Exploring the MERN stack + AI integrations.<br><br>🐾 Currently working on a fun KlipApp.<br><br>☕ Coffee keeps the code flowing.<br><br>📫 Let’s connect: [GitHub](https://github.com/ErmatovRustam) · [LinkedIn](https://www.linkedin.com/in/rustam-ermat/)
 
 
 ## 🌐 Socials:
